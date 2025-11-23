@@ -37,13 +37,12 @@ Una plataforma de votación digital moderna y segura construida para las eleccio
 
 ## 🚀 Demo en Vivo
 
-**Sitio de Producción:** [https://unab-digital-voting-kvtu.bolt.host](https://unab-digital-voting-kvtu.bolt.host)
+**Sitio de Producción:** 
 
 ### Credenciales de Demostración
 ```
-Administrador:
-Email: admin@uandresbello.edu
-Contraseña: password123
+Admin:
+
 
 Estudiante:
 Email: student@uandresbello.edu
